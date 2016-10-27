@@ -29,6 +29,12 @@ body {
 	margin-left: 30px;
 }
 
+.menu li:before {
+	content: '•';
+	font-size: 20px;
+	color: red;
+}
+
 .logotipo {
 	display: inline-block;
 }
