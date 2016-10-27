@@ -77,6 +77,7 @@ body {
 	margin: 10px;
 	padding: 10px;
 	border: 1px solid #1F313C;
+	border-radius: 8px;
 }
 
 .guitarra ol {
@@ -106,4 +107,12 @@ body {
 
 .header {
 	position: relative;
+}
+
+button {
+	border-radius: 5px;
+	background: #fd324e;
+	color: white;
+	border: none;
+	padding: 7px;
 }
