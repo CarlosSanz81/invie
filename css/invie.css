@@ -1,3 +1,16 @@
+* {
+/*	width: tamaño;*/
+	/*height: tamaño;*/
+	border: 2px solid red;
+	padding: 10px;
+	/*padding-top: 10px;
+	padding-right: 13px;
+	padding-bottom: 5px;
+	padding-left: 15px;*/
+	/*padding: 10px 13px 5px 15px;*/
+	margin: 10px;
+	/*para margin igual a padding*/
+
 body {
 	font-family: 'Allerta', sans-serif;
 }
